@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+ div {
+    margin: 0 auto;
+    padding: 20px;
+    background-color:aliceblue;
+   
+ }
+
+ li {
+    padding: 20px;
+    text-decoration: none;
+ }
+
+ button {
+    margin: 10px;
+    cursor: pointer;
+    background-color:lightblue ;
+    width: 100px;
+    height: 25px;
+    border: none;
+ }
+
+ button:hover {
+    background-color: red;
+ }
+h2 {
+    background-color: lightblue;
+}
